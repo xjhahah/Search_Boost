@@ -1,0 +1,4 @@
+Log file created at: 2019/03/10 13:49:39
+Running on machine: localhost.localdomain
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0310 13:49:39.002051 59721 server_main.cc:59] Index Load Done

@@ -1,0 +1,75 @@
+Log file created at: 2019/03/10 12:28:33
+Running on machine: localhost.localdomain
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0310 12:28:33.972754 55629 server_main.cc:59] Index Load Done
+I0310 12:28:49.288754 55636 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552192128
+query: "filesystem"
+I0310 12:28:49.289119 55636 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552192129
+item {
+  title: "Overview"
+  desc: " Overview Home Libraries People FAQ More Overview Concepts Boost.Jam Language Configuration Invocation Declaring Targets Projects The Build Process       Thi..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/bbv2/overview.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/bbv2/overview.html"
+}
+item {
+  title: "Managed Memory Segments"
+  desc: " Managed Memory Segments Home Libraries People FAQ More Managed Memory Segments Making       Interprocess Data Communication Easy Managed       Shared Memory..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/managed_memory_segments.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/managed_memory_segments.html"
+}
+item {
+  title: "Tutorial"
+  desc: " Tutorial Home Libraries People FAQ More Tutorial Hello, world Properties Project Hierarchies Dependent Targets Static and shared libaries Conditions and alt..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/bbv2/tutorial.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/bbv2/tutorial.html"
+}
+item {
+  title: "Change Log"
+  desc: " Change Log Home Libraries People FAQ More Change Log       Version       1.1 - Boost 1.33.0                First version to be included in boost.           ..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/quickbook/change_log.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/quickbook/change_log.html"
+}
+item {
+  title: "Sharing memory between processes"
+  desc: " Sharing memory between processes Home Libraries People FAQ More Sharing memory     between processes Shared       memory Memory       Mapped Files More     ..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/sharedmemorybetweenprocesses.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/sharedmemorybetweenprocesses.html"
+}
+item {
+  title: "Some basic explanations"
+  desc: " Some basic explanations Home Libraries People FAQ More Some basic explanations Processes       And Threads Sharing       information between processes Persi..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/some_basic_explanations.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/some_basic_explanations.html"
+}
+item {
+  title: "Language"
+  desc: " Language Home Libraries People FAQ More Language Lexical Features Targets Rules Flow-of-Control Variables Modules       BJam has an interpreted, procedural ..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/jam/language.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/jam/language.html"
+}
+item {
+  title: "Acknowledgements, notes and links"
+  desc: " Acknowledgements, notes and links Home Libraries People FAQ More Acknowledgements,     notes and links Notes Thanks       to... Release       Notes Books   ..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/acknowledgements_notes.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/acknowledgements_notes.html"
+}
+item {
+  title: "Class random_device"
+  desc: " Class random_device Home Libraries People FAQ More Class random_device boost::random::random_device Synopsis // In header: &lt;boost/random/random_device.hpp&gt; ..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/boost/random/random_device.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/boost/random/random_device.html"
+}
+item {
+  title: "Architecture and internals"
+  desc: " Architecture and internals Home Libraries People FAQ More Architecture and internals Basic guidelines From       the memory algorithm to the managed segment..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/architecture.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/interprocess/architecture.html"
+}
+item {
+  title: "Reference"
+  desc: " Reference Home Libraries People FAQ More Reference General information Builtin rules Builtin features Builtin tools Builtin modules Builtin classes Build pr..."
+  show_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/bbv2/reference.html"
+  jump_url: "https://www.boost.org/doc/libs/1_53_0/doc/html/bbv2/reference.html"
+}

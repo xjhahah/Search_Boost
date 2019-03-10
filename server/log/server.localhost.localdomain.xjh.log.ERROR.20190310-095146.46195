@@ -1,0 +1,4 @@
+Log file created at: 2019/03/10 09:51:46
+Running on machine: localhost.localdomain
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0310 09:51:46.591725 46195 index.cc:235] Check failed: common::FileUtil::Read(index_path, &proto_data) 

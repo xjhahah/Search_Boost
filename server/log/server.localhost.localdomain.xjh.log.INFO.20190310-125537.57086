@@ -1,0 +1,34 @@
+Log file created at: 2019/03/10 12:55:37
+Running on machine: localhost.localdomain
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0310 12:55:37.369313 57086 server_main.cc:59] Index Load Done
+I0310 12:58:13.268185 57102 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552193892
+query: ""
+I0310 13:01:56.122372 57100 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552194116
+I0310 13:05:54.829859 57102 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552194354
+query: ""
+I0310 13:05:54.830194 57102 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552194354
+I0310 13:06:22.780973 57101 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552194382
+query: ""
+I0310 13:06:22.781045 57101 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552194382
+I0310 13:06:29.392748 57100 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552194389
+query: ""
+I0310 13:06:29.392861 57100 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552194389
+I0310 13:08:02.038856 57100 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552194481
+query: ""
+I0310 13:08:02.039952 57100 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552194482
+I0310 13:08:19.719594 57102 doc_searcher.cc:188] [Request]sid: 0
+timestamp: 1552194499
+query: ""
+I0310 13:08:19.719645 57102 doc_searcher.cc:189] [Response]sid: 0
+timestamp: 1552194499
